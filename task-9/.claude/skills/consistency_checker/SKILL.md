@@ -1,0 +1,5 @@
+Section,What to Write (The Skill Definition),Simple Explanation
+Name,Plot Consistency Checker,The command name.
+Description,"Checks for continuity errors, contradictions, or inconsistencies across different sections of a book or long document.",What the skill does.
+Input Parameters,"section_a: The first block of text to analyze (e.g., Chapter 1). section_b: The second block of text to compare (e.g., Chapter 5).",The two pieces of text Claude needs to compare.
+Instructions,"1. **Task:** Compare 'section_a' and 'section_b'. 2. **Focus Areas:** Specifically look for contradictions in **Character Appearance** (e.g., eye color change), **Location Details** (e.g., city name or building layout), and **Timeline Events**. 3. **Output:** Provide a bulleted list of all identified inconsistencies, referencing the exact sentence or paragraph where the contradiction appears.",The specific comparison rules.

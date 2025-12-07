@@ -1,0 +1,5 @@
+Section,What to Write (The Skill Definition),Simple Explanation
+Name,Chapter Outline Generator,The command name Claude will use.
+Description,A specialized tool to turn a one-sentence book concept into a detailed 10-chapter outline.,What the skill does.
+Input Parameter,"concept: The core idea or premise of the book (e.g., ""A rogue AI tries to save humanity from climate change"").",What information you need from the user.
+Instructions,"1. **Goal:** Generate a 10-chapter outline. 2. **Format:** Output must be in Markdown. 3. **Structure:** The outline must include an **Introduction**, 8 main **Development** chapters, and a **Conclusion**. 4. **Detail:** Each chapter summary must be 2-3 sentences long and explain the main conflict and resolution for that chapter.",The detailed rules Claude must follow every time this skill is called.

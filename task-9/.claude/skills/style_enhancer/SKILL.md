@@ -1,0 +1,5 @@
+Section,What to Write (The Skill Definition),Simple Explanation
+Name,Style and Tone Enhancer,The command name.
+Description,"A tool to review text, correct grammar, and adjust the tone to a specified style (e.g., Literary, Academic, Casual).",What the skill does.
+Input Parameters,"text_to_edit: The chapter or paragraph to be reviewed. desired_tone: The target style (e.g., ""Highly descriptive and literary tone"").",The text and the style instruction.
+Instructions,"1. **Phase 1 (Correction):** Correct all grammatical errors, typos, and confusing sentence structures in the input text. 2. **Phase 2 (Enhancement):** Rewrite the corrected text to match the 'desired_tone'. Use strong verbs, descriptive adjectives, and figurative language where appropriate for a highly literary tone. 3. **Output:** Return only the final, revised text.",The two-step editing process.
